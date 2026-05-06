@@ -112,8 +112,4 @@ All internal calculations use **metric (cm, kg)**. The conversion layer handles 
 
 ## 📄 License
 
-MIT — use it, modify it, ship it.
-
----
-
-Built with 🤖 Claude AI
+Cecilia Ibarra
